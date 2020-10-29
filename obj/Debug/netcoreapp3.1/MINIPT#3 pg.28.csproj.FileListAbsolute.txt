@@ -1,0 +1,13 @@
+C:\Users\cmdbe\Desktop\C#COMPUTER\BENDIGOSA\MINIPT#3 pg.28\bin\Debug\netcoreapp3.1\MINIPT#3 pg.28.exe
+C:\Users\cmdbe\Desktop\C#COMPUTER\BENDIGOSA\MINIPT#3 pg.28\bin\Debug\netcoreapp3.1\MINIPT#3 pg.28.deps.json
+C:\Users\cmdbe\Desktop\C#COMPUTER\BENDIGOSA\MINIPT#3 pg.28\bin\Debug\netcoreapp3.1\MINIPT#3 pg.28.runtimeconfig.json
+C:\Users\cmdbe\Desktop\C#COMPUTER\BENDIGOSA\MINIPT#3 pg.28\bin\Debug\netcoreapp3.1\MINIPT#3 pg.28.runtimeconfig.dev.json
+C:\Users\cmdbe\Desktop\C#COMPUTER\BENDIGOSA\MINIPT#3 pg.28\bin\Debug\netcoreapp3.1\MINIPT#3 pg.28.dll
+C:\Users\cmdbe\Desktop\C#COMPUTER\BENDIGOSA\MINIPT#3 pg.28\bin\Debug\netcoreapp3.1\MINIPT#3 pg.28.pdb
+C:\Users\cmdbe\Desktop\C#COMPUTER\BENDIGOSA\MINIPT#3 pg.28\obj\Debug\netcoreapp3.1\MINIPT#3 pg.28.csprojAssemblyReference.cache
+C:\Users\cmdbe\Desktop\C#COMPUTER\BENDIGOSA\MINIPT#3 pg.28\obj\Debug\netcoreapp3.1\MINIPT#3 pg.28.AssemblyInfoInputs.cache
+C:\Users\cmdbe\Desktop\C#COMPUTER\BENDIGOSA\MINIPT#3 pg.28\obj\Debug\netcoreapp3.1\MINIPT#3 pg.28.AssemblyInfo.cs
+C:\Users\cmdbe\Desktop\C#COMPUTER\BENDIGOSA\MINIPT#3 pg.28\obj\Debug\netcoreapp3.1\MINIPT#3 pg.28.csproj.CoreCompileInputs.cache
+C:\Users\cmdbe\Desktop\C#COMPUTER\BENDIGOSA\MINIPT#3 pg.28\obj\Debug\netcoreapp3.1\MINIPT#3 pg.28.dll
+C:\Users\cmdbe\Desktop\C#COMPUTER\BENDIGOSA\MINIPT#3 pg.28\obj\Debug\netcoreapp3.1\MINIPT#3 pg.28.pdb
+C:\Users\cmdbe\Desktop\C#COMPUTER\BENDIGOSA\MINIPT#3 pg.28\obj\Debug\netcoreapp3.1\MINIPT#3 pg.28.genruntimeconfig.cache
